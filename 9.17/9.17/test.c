@@ -73,13 +73,42 @@
 //
 //}
 #include<string.h>
+//int main()
+//{
+//	char arr1[] = "abc";
+//	char arr2[] = { 'a','b','c',};
+//	printf("%d\n", strlen(arr1));
+//	printf("%d\n", strlen(arr2));
+//	int len = strlen("abc");
+//	printf("%d\n", len);
+//	return 0;
+//}
+//int main()
+//{
+//	int input = 0;//输入值
+//	printf("那要好好学习吗（1/0）?>:");
+//	scanf("%d", &input);
+//	if (input = 1)
+//		printf("好offer\n");
+//	else
+//		printf("卖红薯\n");
+//	return 0;
+//}
+//int main()
+//{
+//	int line = 0;
+//	while (line < 3000)
+//	{
+//		printf("写代码：%d\n",line );
+//		line++;
+//	}
+//	if (line = 3000);
+//	{
+//		printf("好offer\n");
+//	}
+//	return 0;
+//}
 int main()
 {
-	char arr1[] = "abc";
-	char arr2[] = { 'a','b','c',};
-	printf("%d\n", strlen(arr1));
-	printf("%d\n", strlen(arr2));
-	int len = strlen("abc");
-	printf("%d\n", len);
-	return 0;
+
 }
